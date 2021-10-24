@@ -1,5 +1,4 @@
-{
-    "JsonData": [
+[
         {
             "Name": "Kadiya Anupkumar Rajeshbhai ",
             "Semester": "5 IT"
@@ -168,5 +167,4 @@
             "Name": "Arya Patel",
             "Semester": "3 IT"
         }
-    ]
-}
+]
