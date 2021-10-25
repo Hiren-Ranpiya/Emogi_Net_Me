@@ -1,37 +1,6 @@
 {
     "JsonData": [
-        {
-            "Name": "Kadiya Anupkumar Rajeshbhai ",
-            "Semester": "5 IT"
-        },
-        {
-            "Name": "Munavvar jarjisbhai popatiya",
-            "Semester": "3 IT"
-        },
-        {
-            "Name": "Vora raj prakashbhai",
-            "Semester": "3 IT"
-        },
-        {
-            "Name": "Patel Bansalkumar Jayendrabhai",
-            "Semester": "3 IT"
-        },
-        {
-            "Name": "Aashutosh verma",
-            "Semester": "3 IT"
-        },
-        {
-            "Name": "Kinjal Makwana",
-            "Semester": "3 IT"
-        },
-        {
-            "Name": "Dobariya Aesha",
-            "Semester": "3 IT"
-        },
-        {
-            "Name": "PANDAR NAYAN",
-            "Semester": "3 IT"
-        },
+        
         {
             "Name": "Divya Gohil",
             "Semester": "3 IT"
@@ -62,6 +31,38 @@
         },
         {
             "Name": "Arya Patel",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Kadiya Anupkumar Rajeshbhai ",
+            "Semester": "5 IT"
+        },
+        {
+            "Name": "Munavvar jarjisbhai popatiya",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Vora raj prakashbhai",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Patel Bansalkumar Jayendrabhai",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Aashutosh verma",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Kinjal Makwana",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Dobariya Aesha",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "PANDAR NAYAN",
             "Semester": "3 IT"
         }
     ]
