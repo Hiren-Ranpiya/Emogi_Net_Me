@@ -1,10 +1,8 @@
 {
     "JsonData": [
-        
         {
             "Name": "Deep",
             "Semester": "3 IT"
-            
         },
         {
             "Name": "Yachi Mochi",
@@ -52,45 +50,44 @@
         }
     ],
     "JsonDataNext": [
-        
         {
             "Name": "Deep",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
              "EnrollmentNo": "19013010785"
         },
         {
             "Name": "Yachi Mochi",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
             "EnrollmentNo": "19013010785"
         },
         {
             "Name": "Yachi Darji",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
             "EnrollmentNo": "19013010785"
         },
         {
             "Name": "Madhani khushbu bharatbhai",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
             "EnrollmentNo": "19013010785"
         },
         {
             "Name": "Arya Patel",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
             "EnrollmentNo": "19013010785"
         },
         {
             "Name": "Munavvhsdhbhai popatiya",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
             "EnrollmentNo": "19013010785"
         },
         {
             "Name": "Vorsdhdhbhai",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
             "EnrollmentNo": "19013010785"
         },
         {
             "Name": "hhsghi",
-            "Semester": "3 IT"
+            "Semester": "3 IT",
             "EnrollmentNo": "19013010785"
         }
     ]
