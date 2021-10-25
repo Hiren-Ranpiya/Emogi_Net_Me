@@ -1,58 +1,68 @@
-[
+{
+    "JsonData": [
         {
             "Name": "Kadiya Anupkumar Rajeshbhai ",
             "Semester": "5 IT"
         },
         {
-            "Name": "Niraj Agrawal",
-            "Semester": "5 IT"
+            "Name": "Munavvar jarjisbhai popatiya",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Rohan Menwani",
-            "Semester": "5 IT"
+            "Name": "Vora raj prakashbhai",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Bagul Shivani Prakashbhai",
-            "Semester": "5 IT"
+            "Name": "Patel Bansalkumar Jayendrabhai",
+            "Semester": "3 IT"
         },
         {
-            "Name": "SUTHAR CHINTAN TIRTHESHKUMAR ",
-            "Semester": "5 IT"
+            "Name": "Aashutosh verma",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Patel Harsh Niteshbhai",
-            "Semester": "5 IT"
+            "Name": "Kinjal Makwana",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Aniket Kadia",
-            "Semester": "5 IT"
+            "Name": "Dobariya Aesha",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Parmar Maulikkumar Jashavantbhai",
-            "Semester": "5 IT"
+            "Name": "PANDAR NAYAN",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Patel Divy Pravinbhai",
-            "Semester": "5 IT"
+            "Name": "Divya Gohil",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Dhruv Patel",
-            "Semester": "5 IT"
+            "Name": "Kunapara Miral",
+            "Semester": "3 IT"
         },
         {
-            "Name": "AYUSHI CHAUHAN",
-            "Semester": "5 IT"
+            "Name": "Priya dhanani",
+            "Semester": "3 IT"
         },
         {
-            "Name": "meera",
-            "Semester": "5 IT"
+            "Name": "Vaidehi Parekh",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Ajay Patel",
-            "Semester": "5 IT"
+            "Name": "Deep",
+            "Semester": "3 IT"
         },
         {
-            "Name": "Hardi Rajeshkumar jadvani",
-            "Semester": "5 IT"
+            "Name": "Yachi Darji",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Madhani khushbu bharatbhai",
+            "Semester": "3 IT"
+        },
+        {
+            "Name": "Arya Patel",
+            "Semester": "3 IT"
         }
-]
+    ]
+}
