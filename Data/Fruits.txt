@@ -1,0 +1,8 @@
+Apple
+100
+Mango
+180
+Grape
+60
+Kivi
+140
