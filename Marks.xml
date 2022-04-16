@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <SUBJECT>MATHS</SUBJECT>
+    <MARKS>75</MARKS>
+  </row>
+  <row>
+    <SUBJECT>PHYSICS</SUBJECT>
+    <MARKS>84</MARKS>
+  </row>
+  <row>
+    <SUBJECT>CHEMISTRY</SUBJECT>
+    <MARKS>68</MARKS>
+  </row>
+  <row>
+    <SUBJECT>COMPUTER</SUBJECT>
+    <MARKS>93</MARKS>
+  </row>
+  <row>
+    <SUBJECT>ENGLISH</SUBJECT>
+    <MARKS>82</MARKS>
+  </row>
+</root>
