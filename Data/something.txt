@@ -1,8 +1,1 @@
-STUDENT
-CGPA
-HIREN
-8.5
-HARDIK
-8.7
-NIKUNJ
-7.4
+{a: 9, b: 20, c:30, d:8, e:12}
